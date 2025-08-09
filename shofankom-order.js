@@ -1,4 +1,5 @@
 <script>
+  alert('hi');
 (function(){
   var WEBHOOK_URL = "https://hook.eu2.make.com/57qvrfwhfkxo9amd2w8h8meaw73ktpf6"; 
   var sent = new Set(); // memory only, resets on reload
